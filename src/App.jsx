@@ -1,8 +1,3 @@
-
-Franklimfcs1 <fcsfranklim@gmail.com>
-6:00 PM (2 minutes ago)
-to me, franklimfcs@gmail.com
-
 import React, { useState, useEffect } from 'react';
 import { Shield, AlertCircle, Loader2, CheckCircle } from 'lucide-react';
 import { initializeApp } from 'firebase/app';
