@@ -1,5 +1,5 @@
 {
-  "name": "prf-elite-1-v85",
+  "name": "prf-elite-v85",
   "private": true,
   "version": "8.5.0",
   "type": "module",
@@ -26,3 +26,4 @@
     "vite": "^4.4.5"
   }
 }
+
